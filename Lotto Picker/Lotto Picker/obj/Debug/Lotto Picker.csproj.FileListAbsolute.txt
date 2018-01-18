@@ -1,0 +1,9 @@
+C:\Users\Owners\Desktop\CIS162 HW\Lotto Picker\Lotto Picker\bin\Debug\Lotto Picker.exe.config
+C:\Users\Owners\Desktop\CIS162 HW\Lotto Picker\Lotto Picker\bin\Debug\Lotto Picker.exe
+C:\Users\Owners\Desktop\CIS162 HW\Lotto Picker\Lotto Picker\bin\Debug\Lotto Picker.pdb
+C:\Users\Owners\Desktop\CIS162 HW\Lotto Picker\Lotto Picker\obj\Debug\Lotto_Picker.Form1.resources
+C:\Users\Owners\Desktop\CIS162 HW\Lotto Picker\Lotto Picker\obj\Debug\Lotto_Picker.Properties.Resources.resources
+C:\Users\Owners\Desktop\CIS162 HW\Lotto Picker\Lotto Picker\obj\Debug\Lotto Picker.csproj.GenerateResource.Cache
+C:\Users\Owners\Desktop\CIS162 HW\Lotto Picker\Lotto Picker\obj\Debug\Lotto Picker.csproj.CoreCompileInputs.cache
+C:\Users\Owners\Desktop\CIS162 HW\Lotto Picker\Lotto Picker\obj\Debug\Lotto Picker.exe
+C:\Users\Owners\Desktop\CIS162 HW\Lotto Picker\Lotto Picker\obj\Debug\Lotto Picker.pdb
